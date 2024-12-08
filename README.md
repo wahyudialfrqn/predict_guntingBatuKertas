@@ -32,15 +32,4 @@ Bahasa Pemrograman: Python
 
 Pustaka: OpenCV, TensorFlow/Keras (opsional untuk model pembelajaran mesin)
 
-Model: Model pralatih untuk deteksi objek atau model kustom.
-
-Kontribusi
-
-Kontribusi sangat diterima! Silakan fork repositori ini dan kirimkan pull request untuk perbaikan atau fitur tambahan.
-
-Lisensi
-
-Program ini dilisensikan di bawah lisensi MIT. Silakan lihat file LICENSE untuk detail lebih lanjut.
-
-
 https://predictguntingbatukertas-production.up.railway.app/
